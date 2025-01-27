@@ -12,7 +12,7 @@ import { MatListModule } from '@angular/material/list';
     CommonModule,
     MatCardModule,
     MatListModule,
-    MatButtonModule
+    MatButtonModule,
   ]
 })
 export class CartModule { }
